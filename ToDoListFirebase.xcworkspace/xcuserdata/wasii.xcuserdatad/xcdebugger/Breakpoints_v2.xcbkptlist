@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoListFirebase/EditTaskViewController.swift"
+            timestampString = "521333372.739752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "EditTaskViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoListFirebase.EditTaskViewController.list.getter : Swift.Optional&lt;ToDoListFirebase.ToDoModel&gt;"
+                  moduleName = "ToDoListFirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wasii/Desktop/ToDoListFirebase/ToDoListFirebase/EditTaskViewController.swift"
+                  timestampString = "521332666.759719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoListFirebase.EditTaskViewController.list.setter : Swift.Optional&lt;ToDoListFirebase.ToDoModel&gt;"
+                  moduleName = "ToDoListFirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wasii/Desktop/ToDoListFirebase/ToDoListFirebase/EditTaskViewController.swift"
+                  timestampString = "521332666.762102"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoListFirebase.EditTaskViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ToDoListFirebase.EditTaskViewController"
+                  moduleName = "ToDoListFirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wasii/Desktop/ToDoListFirebase/ToDoListFirebase/EditTaskViewController.swift"
+                  timestampString = "521332666.764795"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoListFirebase.EditTaskViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ToDoListFirebase.EditTaskViewController&gt;"
+                  moduleName = "ToDoListFirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wasii/Desktop/ToDoListFirebase/ToDoListFirebase/EditTaskViewController.swift"
+                  timestampString = "521332666.769723"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoListFirebase/EditTaskViewController.swift"
+            timestampString = "521333968.323851"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoListFirebase/EditTaskViewController.swift"
+            timestampString = "521333968.323851"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
