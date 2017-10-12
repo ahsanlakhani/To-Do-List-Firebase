@@ -2,8 +2,9 @@
 
 This is a simple To-Do List application with Firebase as backend. 
 
-The application has features such as:
+The application has features such as:  
 
-1-Add Task
-2-Edit Task
-3-Delete Task
+1- Add Task.  
+2- Edit Task.  
+3- Delete Task.  
+
